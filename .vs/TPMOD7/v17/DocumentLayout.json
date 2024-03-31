@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{46C4DFEF-212B-4C99-9F87-05BDC04098A1}|TPMOD7\\TPMOD7.csproj|c:\\docs\\konstruksi perangkat lunak\\tpmod7\\tpmod7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46C4DFEF-212B-4C99-9F87-05BDC04098A1}|TPMOD7\\TPMOD7.csproj|solutionrelative:tpmod7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C4DFEF-212B-4C99-9F87-05BDC04098A1}|TPMOD7\\TPMOD7.csproj|c:\\docs\\konstruksi perangkat lunak\\tpmod7\\tpmod7\\tp7_1_1302220080.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46C4DFEF-212B-4C99-9F87-05BDC04098A1}|TPMOD7\\TPMOD7.csproj|solutionrelative:tpmod7\\tp7_1_1302220080.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tp7_1_1302220080.json",
+              "DocumentMoniker": "C:\\Docs\\Konstruksi Perangkat Lunak\\TPMOD7\\TPMOD7\\tp7_1_1302220080.json",
+              "RelativeDocumentMoniker": "TPMOD7\\tp7_1_1302220080.json",
+              "ToolTip": "C:\\Docs\\Konstruksi Perangkat Lunak\\TPMOD7\\TPMOD7\\tp7_1_1302220080.json",
+              "RelativeToolTip": "TPMOD7\\tp7_1_1302220080.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T22:37:56.088Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "TPMOD7\\Program.cs",
               "ToolTip": "C:\\Docs\\Konstruksi Perangkat Lunak\\TPMOD7\\TPMOD7\\Program.cs",
               "RelativeToolTip": "TPMOD7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T22:33:57.159Z",
               "EditorCaption": ""
